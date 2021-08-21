@@ -1,0 +1,19 @@
+sadge_words = ["i live in spain but the s is silent", "sometimes we forget to tandai hadir and thats okay", "sometimes we have bad days and thats okay, better days are upon us", "hey sometimes you just gotta take a nap and forget it all", "it's fine to not be fine", "hey at least you're not mentally deranged or actually mentally retarded, man. thats an advantage.", "thirafi had secc with amar at room 219", "mending nonton boku no pico :v - benis", "if u ever feel like shit remember that thirafi got denied by an AI. A FUCKIN AI.", "pls go to horny jail. pls."]
+
+rps = ["rock", "paper", "scissors", "M4A1-S", "a gun", "Hitler", "a frog", "a plate", "an unit of RT-2PM2 Topol-M Cold-Launched Three-Stage Solid-Propellant Silo-Based Intercontinental Ballistic Missile", "a main battle tank"]
+
+yes_or_no = ["yes", "no", "prolly", "that is a question only you can answer", "only time can tell", "let's just agree to disagree, man", "I would like to agree, but right now I'm with Rushia. Can't call her pett-", "y e s", "n o", "uhhhhhhhhhhhhhhhhhhhhhhhhh yes", "uhhhhhhhhhhhhhhhh no?", "sure", "I think so", "yesn't", "oh boy I 1000% agree with that", "hell no, hell no", "why did you ask me a question with such an obvious answer? of course it's yes", "why did you ask me a question with such an obvious answer? of course it's no", "I'm pretty sure its a yes", "I'm pretty sure thats a no", "( ͡° ͜ʖ ͡°)"]
+
+cursed_links = ["https://media.discordapp.net/attachments/768994596734631937/806800541052698674/Screenshot_20210204-1514092.png", "https://media.discordapp.net/attachments/768994596734631937/806064406588162068/unknown.png", "https://media.discordapp.net/attachments/768994596734631937/801412509621420042/unknown.png", "https://media.discordapp.net/attachments/782630610362433536/789041215668355102/Screenshot_2020-12-17-15-06-45-87.jpg?width=1025&height=425" ]
+
+noprobs = ["no problem man, ", "you're very welcome, ", "its a pleasure m'dude, ", "ightos m8 no sweat, ", "no problemo, ", "gotchu homie, "]
+
+motivate = ["have a nice day", "go get the bread", "dont forget to not be a degen irl", "dont forget to Tandai Hadir", "dont forget to wash your hands"]
+
+unseeArray = ["https://media.discordapp.net/attachments/849488005067571200/854980858213433344/unsee_juice____big_sip____by_artofanemic_de00njb-fullview.png?width=670&height=670", "https://media.discordapp.net/attachments/774151346546933800/808888087165927485/D7Mc16BUYAA9gMY.png?width=480&height=480", "https://media.discordapp.net/attachments/849488005067571200/854980886714253312/unsee2.png?width=670&height=670", "https://media.discordapp.net/attachments/849488005067571200/854981197624377344/artworks-720srrzZh4PLVKmX-yzidqg-t500x500.png",
+        "https://media.discordapp.net/attachments/849488005067571200/854981197624377344/artworks-720srrzZh4PLVKmX-yzidqg-t500x500.png",
+        "https://media.discordapp.net/attachments/849488005067571200/854981692611887114/shane-kemp-chugjug-final.png"]
+
+chooseArray = ["personally i'd choose", "uhhhh probably", "yeah it's pretty obvious, should be", "why did you even ask, we all know that the best option is", "yeah bro I'd pick", "kinda cringe options but the best is", "all your choices are pog so maybe"]
+
+ratingArray = ["well according to my hyperadvanced rating system,", "uhhhhh probably", "i dont know man, maybe" , "look, I'm a bot, so my subjective rating for", "y e a ", "why do you need me to rate it, even? it's pretty obvious,", "bro that shit is pretty obvious you don't even need me to rate it,", "hold on i'm fighting a goose,", "bro that's pretty pog but I'll say that", "bro that's pretty cringe but I'll say that", "my man,", "I'm pretty sure you can rate this by yourself, but fine."] 
